@@ -1,4 +1,3 @@
-# flutter-TaskMe
 # 📱 TaskMe - Application de Gestion des Tâches
 
 Application mobile de gestion des tâches développée avec Flutter, offrant une expérience utilisateur moderne avec authentification, persistance locale et synchronisation cloud.
